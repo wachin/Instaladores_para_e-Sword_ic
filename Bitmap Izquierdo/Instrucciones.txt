@@ -1,0 +1,4 @@
+
+Hice el diseño en Inskcape, y lo guardé como .bmp pero install creator free no lo carga bien, así que mejor lo guardé como png para luego abrirlo en Paint .Net https://paintnet.es/  y de allí guardarlo como .bmp y allí si funciona ese bmp en install creator free. Me imagino tal vez que si usan Illustrator o Corel a de funcionar directamente (revisen el tamaño del .bmp para que lo hagan)
+
+
